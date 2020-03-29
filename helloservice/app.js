@@ -8,6 +8,10 @@ var product ={
     quantity:5000
 };
 
+// Date: 29.03.2020
+// I have modified this file to 
+// for trial of GIT using VS Code
+
 var count=45;
 count++;
 var controller=function(request,response)
